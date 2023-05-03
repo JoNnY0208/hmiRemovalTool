@@ -7,11 +7,11 @@ Run application as Administrator
  
 If application will not have admin right all the functions will be disabled and you will get worning. The application would have to be closed and started again
 
-![img2](img/img2)
+![img2](img/img2.png)
 
 On the application main screen you have few options:
 
-![img3](img/img3)
+![img3](img/img3.png)
 
 1.	Disable Rockwell Services
 2.	Open HMI Project Location
@@ -28,5 +28,5 @@ Come back to HMI Application Remover and click any key. This will re enable all 
 The system will be reboted – if not – rebot system manualy.
 After the reboot login to the system and use Rockwells Application Manager to restore backup of a new HMI application
 
-![img4](img/img4)
+![img4](img/img4.png)
  
