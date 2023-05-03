@@ -3,7 +3,7 @@
 Copy application to the desktop of a PC where you have HMI application that you want to remove.
 Run application as Administrator 
 
-![img1](img/img1)
+![[img/img1]]
  
 If application will not have admin right all the functions will be disabled and you will get worning. The application would have to be closed and started again
 
